@@ -1,4 +1,4 @@
 dockerfile-examples
 ===================
 
-Dockerfile examples
+Simple dockerfile used for job / demo
